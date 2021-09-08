@@ -10,8 +10,8 @@ cd $WIKIJS_PATH
 
 wget https://github.com/habloapp/unicauth-wikijs/archive/refs/tags/$VERSION.tar.gz
 tar xzf $VERSION.tar.gz -C .
-cp -r unicauth-wikijs-$VERSION/server ./
-cp -r unicauth-wikijs-$VERSION/assets ./
+cp -r unicauth-wikijs-$VERSION/server .
+cp -r unicauth-wikijs-$VERSION/assets .
 rm -r unicauth-wikijs-$VERSION
 rm $VERSION.tar.gz
 
