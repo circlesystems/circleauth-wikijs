@@ -1,0 +1,31 @@
+{
+  "name": "@habloapp/unicauth-wikijs",
+  "version": "1.0.0",
+  "description": "Unic Auth authentication provider for Wiki.js",
+  "main": "authentication.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habloapp/unicauth-wikijs.git"
+  },
+  "keywords": [
+    "unicauth",
+    "auth",
+    "authn",
+    "authentication",
+    "authz",
+    "authorization",
+    "2fa",
+    "passwordless"
+  ],
+  "author": {
+    "name": "HabloApp Inc.",
+    "email": "info@unicauth.com",
+    "website": "https://unicauth.com"
+  },
+  "license": "ISC",
+  "homepage": "https://unicauth.com/alpha",
+  "dependencies": {
+    "@habloapp/passport-unicauth": "1.x.x"
+  },
+  "scripts": {}
+}
