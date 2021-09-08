@@ -3,7 +3,7 @@ Unic Auth authentication provider for Wiki.js
 
 ## Installation
 
-Run the following command entering the correct `$WIKIJS_PATH` and `$VERSION`
+Run the following command entering the correct `$WIKIJS_PATH` and `$VERSION` (choose a version number from [tags](https://github.com/habloapp/unicauth-wikijs/tags))
 
 ```shell
 cd $WIKIJS_PATH
