@@ -1,6 +1,6 @@
 {
   "name": "@habloapp/unicauth-wikijs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Unic Auth authentication provider for Wiki.js",
   "main": "authentication.js",
   "repository": {
