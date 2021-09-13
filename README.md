@@ -1,5 +1,5 @@
 # unicauth-wikijs
-Unic Auth authentication provider for Wiki.js
+[Unic Auth](https://unicauth.com/alpha) authentication provider for Wiki.js
 
 ## Installation
 
