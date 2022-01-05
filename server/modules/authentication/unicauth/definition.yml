@@ -1,10 +1,10 @@
-key: unicauth
-title: Unic Auth
-description: Unic Auth provides universal passwordless authentication and authorization.
-author: unicauth.com
-logo: https://unicauth.com/alpha/files/logo.svg
+key: circleauth
+title: Circle Auth
+description: Circle Auth provides universal passwordless authentication and authorization.
+author: circleauth.gocircle.ai
+logo: https://circleauth.gocircle.ai/files/logo.svg
 color: primary
-website: https://unicauth.com/
+website: https://circleauth.gocircle.ai/
 isAvailable: true
 useForm: false
 useEmailForm: true

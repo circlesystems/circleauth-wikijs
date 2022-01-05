@@ -1,15 +1,15 @@
 /* global WIKI */
 
 // ------------------------------------
-// UnicAuth Application
+// Circle Auth Application
 // ------------------------------------
 
-const UnicAuthStrategy = require('@habloapp/passport-unicauth').Strategy
+const CircleAuthStrategy = require('@circlesystems/passport-circleauth').Strategy
 
 module.exports = {
   init (passport, conf) {
-    passport.use('unicauth',
-      new UnicAuthStrategy({
+    passport.use('circleauth',
+      new CircleAuthStrategy({
         appKey: conf.appKey,
         readKey: conf.readKey,
         writeKey: conf.writeKey,

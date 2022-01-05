@@ -21,7 +21,7 @@ npm install
 
 ## Configuration
 
-1. Create an application at [Circle Auth Console](https://console.gocircle.com/) (you can insert any URL at **Login Return URL** for now).
+1. Create an application at [Circle Auth Console](https://console.gocircle.ai/) (you can insert any URL at **Login Return URL** for now).
 2. Within Wiki.js [Authentication module](https://docs.requarks.io/auth) add a new strategy and choose Unic Auth from the list.
 3. Inside the 'STRATEGY CONFIGURATION' group fill out **App Key**, **Read Key** and **Write Key** fields available in the [Circle Auth Console](https://console.gocircle.ai/) Application Info.
 4. Enable the Self-registration option (unless you plan on authorizing users manually).

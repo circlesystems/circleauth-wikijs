@@ -1,14 +1,14 @@
 {
-  "name": "@habloapp/unicauth-wikijs",
-  "version": "1.0.2",
-  "description": "Unic Auth authentication provider for Wiki.js",
+  "name": "@circlesystems/circleauth-wikijs",
+  "version": "1.1.0",
+  "description": "Circle Auth authentication provider for Wiki.js",
   "main": "authentication.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/habloapp/unicauth-wikijs.git"
+    "url": "git+https://github.com/circlesystems/circleauth-wikijs.git"
   },
   "keywords": [
-    "unicauth",
+    "circleauth",
     "auth",
     "authn",
     "authentication",
@@ -18,14 +18,14 @@
     "passwordless"
   ],
   "author": {
-    "name": "HabloApp Inc.",
-    "email": "info@unicauth.com",
-    "website": "https://unicauth.com"
+    "name": "Circle Systems Inc.",
+    "email": "support@gocircle.ai",
+    "website": "https://circleauth.gocircle.ai"
   },
   "license": "ISC",
-  "homepage": "https://unicauth.com/alpha",
+  "homepage": "https://circleauth.gocircle.ai",
   "dependencies": {
-    "@habloapp/passport-unicauth": "1.x.x"
+    "@circlesystems/passport-circleauth": "1.x.x"
   },
   "scripts": {}
 }
