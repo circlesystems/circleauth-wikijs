@@ -1,5 +1,5 @@
-# circleauth-wikijs
-[Circle Auth](https://circleauth.gocircle.ai) authentication provider for Wiki.js
+# Circle Auth for Wikijs
+[Circle Auth](https://circleauth.gocircle.ai) authentication provider for [Wiki.js](https://js.wiki/)
 
 ## Installation
 
